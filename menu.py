@@ -8,9 +8,9 @@ def vraag():
         print("2: Dagboek")
         print("-----")
 
-        keuze = int(input("Voer een keuze in tussen 1-4: "))
+        keuze = int(input("Voer een keuze in tussen 1-2: "))
 
-        if keuze < 1 or keuze > 4:
+        if keuze < 1 or keuze > 2:
             print('Dit is niet een geldige invoer')
             continue
 
