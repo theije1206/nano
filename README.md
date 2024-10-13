@@ -1,3 +1,2 @@
 - Raad het getal
-- Galgje
 - **Dagboek** 
